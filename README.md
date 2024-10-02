@@ -9,3 +9,4 @@ the verification.py script will accept a key as an argument and return true if t
 Example: `./verification.py your-key` will call ./denied_access_from_IP.py if your-key is invalid and ./process_to_databse.py otherwise
 
 YOUR MOM FAT !
+NEVER ASK AN ORPHAN WHERE HIS DAD IS !
